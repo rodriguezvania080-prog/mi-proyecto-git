@@ -1,0 +1,9 @@
+1.  ¿Cuál es la diferencia entre git add y git commit?
+git add sirve para añadir un nuevo elemento a nuestro repositorio, mientras que gi commit sirve para agregar un comentario
+
+2. ¿Qué significa trabajar con una "rama" (branch)?
+Que trabajar con estas nos va a permitir trabajar en distintos caminos dentro del repositorio, sin afectar el código principal. 
+
+3. ¿Cuál es la ventaja de usar GitHub en comparación a guardar archivos solo
+en tu PC?
+Que al trabajar con github podemos acceder en culaquier momento,ademas de poder compartir nuestro repositorio a otras personas 
